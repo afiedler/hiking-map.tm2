@@ -1,0 +1,15 @@
+- place_name: Etlan, 22719, Virginia, United States
+  zoom: 14
+  center: 
+    - 38.562059339786764
+    - -78.30951690673828
+  tags: 
+    - userbookmark
+  index: 0
+- place_name: Kidal, Mali
+  zoom: 2
+  center: 
+    - 20.138470312451155
+    - 0
+  tags: 
+    - userbookmark
